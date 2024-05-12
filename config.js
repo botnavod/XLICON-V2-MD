@@ -16,7 +16,7 @@ global.owner = [
   
 ] //Number of owners
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = "94713317339" //put your bot number here
 
 global.mods = ['923184070915', '94789481495', '923184474176','233531910067','233508488192'] 
 global.prems = ['923184070915','233208179431','94789481495', '918360234087','233508488192']
@@ -69,9 +69,9 @@ global.fglog = 'XLICON.jpg'
 global.thumb = fs.readFileSync('./XLICON.jpg')
 
 
-global.wait = '*🕣 _XLICON IS LOADIND..._*\n*▰▰▰▱▱▱▱▱⭐*'
-global.rwait = '⌛'
-global.dmoji = '🤭'
+global.wait = '*🕣 _XLICON IS LOADIND..._*\n*▰▰▰▱▱▱▱▱💣*'
+global.rwait = '⏳'
+global.dmoji = '🎉'
 global.done = '✔️'
 global.error = '❌' 
 global.xmoji = '🔥' 
